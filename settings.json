@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "GLORY_SMP1.aternos.me",
+    "port": 60360,
     "version": "1.20.1",
     "try-creative": false
   },
